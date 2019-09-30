@@ -1,7 +1,10 @@
 
 
 body {
+    color: white;
     background-color: red;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 h1 {
     color: white;
