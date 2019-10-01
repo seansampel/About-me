@@ -2,7 +2,7 @@
 
 body {
     color: white;
-    background-color: slategrey;
+    background-color: black;
     background-image:url('Tlogo.jpg');
     background-repeat:no-repeat;
     background-position:center;
@@ -12,6 +12,10 @@ body {
 h1 {
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+img.resize {
+    widows: 200px;
+    height: 400
 }
 p {
     color: white;
