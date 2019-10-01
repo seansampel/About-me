@@ -7,6 +7,7 @@ body {
     background-repeat:no-repeat;
     background-position:center;
     background-attachment:fixed;
+    padding:20px; 
 
 }
 h1 {
@@ -31,6 +32,7 @@ form
     {
         color: white;
         font-family: 'Helvetica', bold, sans-serif; 
+        line-height:1.6em; 
     }
     a
     {
