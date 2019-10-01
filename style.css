@@ -11,18 +11,18 @@ h1 {
 }
 p {
     color: white;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Helvetica', bold, sans-serif; 
 
     h6 {
         color: white;
-        font-family: 'Courier New', Courier, monospace
+        font-family: 'Helvetica', bold, sans-serif; 
 }
 ul {
     color: white;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Helvetica', bold, sans-serif; 
 }
 form
     {
         color: white;
-        font-family: college;
+        font-family: 'Helvetica', bold, sans-serif; 
     }
