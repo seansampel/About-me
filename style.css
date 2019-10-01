@@ -13,10 +13,10 @@ p {
     color: white;
     font-family: 'Helvetica', bold, sans-serif; 
 }
-    footer {
+    h6 {
         color: white;
         font-family: 'Helvetica', bold, sans-serif; 
-        text-align: centre;
+        text-align: center;
 }
 ul {
     color: white;
