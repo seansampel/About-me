@@ -16,6 +16,7 @@ p {
     h6 {
         color: white;
         font-family: 'Helvetica', bold, sans-serif; 
+        position: centre
 }
 ul {
     color: white;
