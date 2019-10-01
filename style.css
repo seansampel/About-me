@@ -3,7 +3,7 @@
 body {
     color: white;
     background-color: slategrey;
-    background-image:url(./my-portfolio/'Tlogo.jpg');
+    background-image:url('Tlogo.jpg');
     background-repeat:no-repeat;
     background-position:center;
     background-attachment:fixed;
