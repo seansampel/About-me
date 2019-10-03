@@ -16,6 +16,12 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     
 }
+}
+h2 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
 
 p {
     color: white;
@@ -25,6 +31,7 @@ p {
         color: white;
         font-family: 'Helvetica', bold, sans-serif; 
         text-align: center;
+
 }
 ul {
     color: white;
@@ -40,6 +47,6 @@ form
     {
         color: white;
         font-family: 'Helvetica', bold, sans-serif; 
-        text-align: center
+        text-align: center;
         
     }
