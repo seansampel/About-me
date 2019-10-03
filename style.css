@@ -16,12 +16,12 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     
 }
-{
+a  {
     color: white;
     font-family: 'Helvetica', bold, sans-serif; 
     text-align: center;
     
-}
+   }
 }
 h2 {
     color: white;
