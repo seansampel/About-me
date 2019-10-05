@@ -46,9 +46,10 @@ form
         font-family: 'Helvetica', bold, sans-serif; 
         line-height:1.5em; 
     }
-    footer {
+    footer 
+        {
         color: white;
         font-family: 'Helvetica', bold, sans-serif; 
-        text-align: center;
+        text-emphasis-position: center;
 
         }
