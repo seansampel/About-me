@@ -15,6 +15,7 @@ h1 {
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     
+    
 }
 a  {
     color: white;
@@ -49,4 +50,7 @@ form
         font-family: 'Helvetica', bold, sans-serif; 
         line-height:1.6em; 
     }
-    
+    #footer {
+        background-color: black;
+        padding: 20px;
+      }
