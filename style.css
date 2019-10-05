@@ -50,6 +50,7 @@ h6
         {
         color: white;
         font-family: 'Helvetica', bold, sans-serif; 
-        text-emphasis-position: center;
+        text-align: center;
+        text-anchor: end
 
         }
