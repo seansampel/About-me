@@ -34,12 +34,8 @@ p {
     color: white;
     font-family: 'Helvetica', bold, sans-serif; 
 }
-    h6 {
-        color: white;
-        font-family: 'Helvetica', bold, sans-serif; 
-        text-align: center;
 
-}
+
 ul {
     color: white;
     font-family: 'Helvetica', bold, sans-serif; 
@@ -50,11 +46,10 @@ form
         font-family: 'Helvetica', bold, sans-serif; 
         line-height:1.5em; 
     }
-    #footer {
+    h6 {
         color: white;
         padding: 20px;
         font-family: 'Helvetica', bold, sans-serif; 
         position: fixed;
         text-align: center;
-        
-      }
+        }
