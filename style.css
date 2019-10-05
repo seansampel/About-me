@@ -25,6 +25,10 @@ a href {
     
    }
 
+   fieldset {
+    border: 0;
+}
+
 h2 {
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
