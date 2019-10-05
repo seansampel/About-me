@@ -46,10 +46,9 @@ form
         font-family: 'Helvetica', bold, sans-serif; 
         line-height:1.5em; 
     }
-    h6 {
+    footer {
         color: white;
-        padding: 20px;
         font-family: 'Helvetica', bold, sans-serif; 
-        position: fixed;
         text-align: center;
+
         }
