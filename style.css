@@ -18,6 +18,7 @@ a href {
     font-family: 'Helvetica', bold, sans-serif; 
     text-align: center; 
    }
+
    fieldset {
     border: 0;
 }
@@ -31,16 +32,19 @@ p {
     color: white;
     font-family: 'Helvetica', bold, sans-serif; 
 }
+
 ul {
     color: white;
     font-family: 'Helvetica', bold, sans-serif; 
 }
+
 form
     {
         color: white;
         font-family: 'Helvetica', bold, sans-serif; 
         line-height:1.5em; 
     }
+    
 h6 
         {
         color: white;
