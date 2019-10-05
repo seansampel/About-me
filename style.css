@@ -8,23 +8,16 @@ body {
     background-position:center;
     background-attachment:fixed;
     background-image:size = width"100" length"100"
-   
-
 }
 h1 {
     color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-    
-    
-}
-    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  
+}   
 a href {
     color: white;
     font-family: 'Helvetica', bold, sans-serif; 
-    text-align: center;
-    
+    text-align: center; 
    }
-
    fieldset {
     border: 0;
 }
@@ -32,15 +25,12 @@ a href {
 h2 {
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-    
 }
 
 p {
     color: white;
     font-family: 'Helvetica', bold, sans-serif; 
 }
-
-
 ul {
     color: white;
     font-family: 'Helvetica', bold, sans-serif; 
@@ -57,5 +47,4 @@ h6
         font-family: 'Helvetica', bold, sans-serif; 
         text-align: center;
         text-anchor: end
-
         }
