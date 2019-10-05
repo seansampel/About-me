@@ -17,13 +17,8 @@ h1 {
     
     
 }
-#Enter {
-    color: white;
-    font-family: 'Helvetica', bold, sans-serif; 
-    text-align: center;
     
-   }
-a  {
+a href {
     color: white;
     font-family: 'Helvetica', bold, sans-serif; 
     text-align: center;
