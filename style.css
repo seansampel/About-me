@@ -7,7 +7,7 @@ body {
     background-repeat:no-repeat;
     background-position:center;
     background-attachment:fixed;
-    background-image:size = width"200" length"200"
+    background-image:size = width"100" length"100"
    
 
 }
@@ -48,9 +48,11 @@ form
     {
         color: white;
         font-family: 'Helvetica', bold, sans-serif; 
-        line-height:1.6em; 
+        line-height:1.5em; 
     }
     #footer {
         background-color: black;
         padding: 20px;
+        font-family: 'Helvetica', bold, sans-serif; 
+        text-align: center;
       }
