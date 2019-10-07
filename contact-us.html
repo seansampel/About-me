@@ -47,15 +47,17 @@
             </fieldset>
            </form>
 
+           <button onclick="myFunction()">Submit</button><br>
+           <button onclick="document.getElementById().value = ''">Clear</button>
           
           
        
            <script 
 type="text/javascript">
 function confirm_email(){
-    var email = document.getElementById('name').value;
-    var re_email = document.getElementById('Email').value;
-    if( email != re_email ) {    //  <-- here
+    var name = document.getElementById('name').value;
+    var email = document.getElementById('email').value;
+    if( email != email ) {    //  <-- here
         alert("ERROR")
         document.getElementById('name').value = "";
         document.getElementById('email').value = "";
