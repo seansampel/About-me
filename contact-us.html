@@ -47,12 +47,35 @@
             </fieldset>
            </form>
 
-           <div style="color: blue">
+          
            <button onclick="myFunction()">Submit</button><br>
            <button onclick="document.getElementById().value = ''">Clear</button>
-        </div>
+       
            <script>
-           
+
+        const myForm = document.getElementById('#my-form');
+        const nameInput = document.getElementById('#name');
+        const emailInput = document.getElementById('#email');
+        const messageInput = document.getElementById('#message');
+           document.getElementById('Submit');
+
+           myForm.addEventListener('submit', onSubmit);
+
+           function onSubmit(e) {
+            e.preventDefault();
+
+            if(nameInput, value === '' || emailInput.value === '') {
+            } else {
+               const li = document.createElement('li');
+               li.appendChild(document.createTextnode(`${nameInput.value} : ${emailInput.value}`));
+                
+                userList.appendChild(li);
+
+                nameInput.value = '';
+                emailInput.value = '';
+            }
+           }
+
            
            </script>
            
