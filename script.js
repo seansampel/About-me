@@ -8,5 +8,5 @@
 // document.getElementById("myFunction").addEventListener("Clear");
                 
 document.getElementById("Name").addEventListener("Submit", function() {
-    alert("");
+    alert("Hello");
   });
